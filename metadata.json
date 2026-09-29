@@ -1,0 +1,6 @@
+{
+  "name": "Chaja Master",
+  "description": "Phone Charging Hub and Locker Management System with real-time status tracking, receipts, expenses, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
